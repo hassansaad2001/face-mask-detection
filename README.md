@@ -36,10 +36,11 @@
       1- train model on only last layer and freezing initial layers (acc:0.9225  ,loss:0.3886,lr=0.0001 ,Epoch:25)  
       2- train model on last layer and (10-18 initial layers) (acc:0.9950  ,loss:0.0.3183,lr=0.0001,Epoch:25)  
       3- train model on all layers(acc:0.1.0000,loss:0.0.3133 ,lr=0.00001,Epoch:10)  
-  ## 6- compute cv accuracy and plot loss,acc  
+
+  ## 6- evolution  
 
 ## testing  
-  ## accuracy = 0.997984  
+    accuracy = 0.997984  
   
   ![cv_acc_test](https://user-images.githubusercontent.com/90579377/201539906-22aad5c2-da7e-4edf-97e5-66aa6015a3f1.png)  
   ![plot_acc](https://user-images.githubusercontent.com/90579377/201539919-7c358a5d-7924-407c-a969-1063ff09b109.png)  
